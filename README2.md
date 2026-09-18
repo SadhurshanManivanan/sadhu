@@ -2,8 +2,8 @@
 
 ## Practice - biological databases
 
-Date-$(date)
-Time-$(time)
+$(date)
+
 Databases used - NCBI-refseq , Uniprot 
 
 1.Data retrived - rbcl_gene from NCBI Refseq as Fasta and Genbank format
