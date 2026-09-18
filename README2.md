@@ -1,6 +1,10 @@
 
-## Date  - 18th Sep 2026
-## Practice - biological database
+
+## Practice - biological databases
+
+Date-$(date)
+Time-$(time)
+Databases used - NCBI-refseq , Uniprot 
 
 1.Data retrived - rbcl_gene from NCBI Refseq as Fasta and Genbank format
 and the accession number is NC_000932
