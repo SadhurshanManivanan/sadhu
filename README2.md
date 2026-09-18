@@ -2,8 +2,7 @@
 
 ## Practice - biological databases
 
-accesed date: $(date)
-work commited time: $(time)
+ Entrez accessed: $(date)      
 
 Databases used - NCBI-refseq , Uniprot 
 
